@@ -374,6 +374,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
 - [federation-jvm](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java.
+- [MicroProfile GraphQL](https://github.com/eclipse/microprofile-graphql): Open Specification for Code-first Java GraphQL Services.
+- [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql): An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+- [Helidon GraphQL](https://medium.com/helidon/microprofile-graphql-support-now-available-in-helidon-mp-dbc7bc0b4af): An implementation of the MicroProfile GraphQL Specification using [Project Helidon](https://helidon.io/) version 2.2.0 and above
 
 #### Custom Scalars
 
